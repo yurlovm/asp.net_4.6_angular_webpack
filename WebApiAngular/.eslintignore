@@ -1,0 +1,6 @@
+/aot/**
+/dist/**
+/documentation/**
+/client/**
+/node_modules/**
+/e2e/**
